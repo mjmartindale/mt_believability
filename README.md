@@ -1,7 +1,7 @@
-# Misleading-Annotated Machine Translation Output (MAMTO)
+# Machine Translation Believability
 
 This package contains data files with MT outputs for the test portion of the MTTT task and 
-human annotation scores relevant to determining whether the MT output for a segment is misleading.
+human annotation scores for believability, fluency, and adequacy.
 
 ## Annotation File Naming Conventions
 
