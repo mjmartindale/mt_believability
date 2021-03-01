@@ -62,10 +62,7 @@ The following text is provided for reference in text:
 
 ## Paper
 
-You can view the paper (in progress) on Overleaf (view only): https://www.overleaf.com/read/fvrbdgmrvwxf
-
-Contact mmartind@umd.edu with comments or if you would like the write access link to add a system 
-description and results to the paper.
+Link to paper and citation forthcoming.
 
 ## Fine print
 The data contained in this package is provided for research purposes only and comes with no guarantee.
