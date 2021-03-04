@@ -65,5 +65,6 @@ The following text is provided for reference in text:
 Link to paper and citation forthcoming.
 
 ## Fine print
-The data contained in this package is provided for research purposes only and comes with no guarantee.
+This data set is publicly available for use under Creative Commons CC-BY.
+
 Version: 1.1
